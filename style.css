@@ -23,7 +23,7 @@ h2 {
 
 body {
     color: #7c3aed;
-    background-color: rgb(221, 226, 198);
+    background-color: hsl(57, 53%, 78%);
     display: flex;
     justify-content: center;
     flex-direction: column;
